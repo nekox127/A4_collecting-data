@@ -1,4 +1,4 @@
-# A4_collecting-data
+# Donald Trump Rallies Speeches
 
 # The corpus
 The dataset contains the full speeches that Donald Trump gave at 35 of his rallies. Ideal for natural language processing and sentiment analysis.
